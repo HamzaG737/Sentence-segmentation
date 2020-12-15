@@ -1,0 +1,7 @@
+<span>the first pig was very lazy</span>
+<span>he didn't want to work</span>
+<span>and he built his house out of straw</span>
+<span>the second pig worked a little bit harder</span>
+<span>he was somewhat lazy too</span>
+<span>he built his house out of sticks .</span>
+<span>then , they sang , danced and played together the rest of the day .</span>
